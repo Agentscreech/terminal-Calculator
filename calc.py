@@ -2,7 +2,7 @@
 # This program will take inputs one at a time from the user and do the operation
 # instructed in the order it was given then print out that function with the result.
 
-# Fucntion that asks for input and tests if it's a number or not
+# Function that asks for input and tests if it's a number or not
 def getNums(message):
     while True:
         try:
